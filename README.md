@@ -9,11 +9,6 @@ Este projeto é um sistema de gerenciamento de presença desenvolvido para permi
 - [Principais Funcionalidades](#principais-funcionalidades)
 - [Fluxo de Trabalho](#fluxo-de-trabalho)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
-- [Referências](#referências)
 
 ## Objetivo Principal
 
@@ -58,5 +53,5 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento e instalar a
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gerenciamento-presenca.git
-cd gerenciamento-presenca
+git clone https://github.com/elizabethmp82/Gerenciamento-de-Presenca.git
+cd Gerenciamento-de-Presenca
